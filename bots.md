@@ -124,6 +124,7 @@
 * [@Google_itBot](https://t.me/Google_itBot) - Inline Бот для поиска в Google (текст, картинки), поиск видео в YouTube.
 * [@maigret_osint_bot](https://t.me/maigret_osint_bot) - Поиск аккаунтов по никнейму на более чем 1300 сайтах.
 * [@TyzenhausBot](https://t.me/TyzenhausBot) - Упрощение взаимных долгов в групповых чатах.
+* [@Trudoustroistvo_Proforientat_bot](http://t.me/Trudoustroistvo_Proforientat_bot) - Лайфхак-ботик Работа Поиск Трудоустройство Профориентация.
 
 [(Назад к меню)](#Разделы)
 
